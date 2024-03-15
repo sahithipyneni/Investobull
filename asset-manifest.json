@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sahithipyneni/Investobull.git/static/css/main.086114bc.css",
-    "main.js": "/sahithipyneni/Investobull.git/static/js/main.ebda716f.js",
-    "static/js/453.73eb131c.chunk.js": "/sahithipyneni/Investobull.git/static/js/453.73eb131c.chunk.js",
-    "index.html": "/sahithipyneni/Investobull.git/index.html",
-    "main.086114bc.css.map": "/sahithipyneni/Investobull.git/static/css/main.086114bc.css.map",
-    "main.ebda716f.js.map": "/sahithipyneni/Investobull.git/static/js/main.ebda716f.js.map",
-    "453.73eb131c.chunk.js.map": "/sahithipyneni/Investobull.git/static/js/453.73eb131c.chunk.js.map"
+    "main.css": "/Investobull/static/css/main.086114bc.css",
+    "main.js": "/Investobull/static/js/main.b3144cc1.js",
+    "static/js/453.73eb131c.chunk.js": "/Investobull/static/js/453.73eb131c.chunk.js",
+    "index.html": "/Investobull/index.html",
+    "main.086114bc.css.map": "/Investobull/static/css/main.086114bc.css.map",
+    "main.b3144cc1.js.map": "/Investobull/static/js/main.b3144cc1.js.map",
+    "453.73eb131c.chunk.js.map": "/Investobull/static/js/453.73eb131c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.086114bc.css",
-    "static/js/main.ebda716f.js"
+    "static/js/main.b3144cc1.js"
   ]
 }
