@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sahithipyneni/Investobull.git/static/css/main.086114bc.css",
+    "main.js": "/sahithipyneni/Investobull.git/static/js/main.ebda716f.js",
+    "static/js/453.73eb131c.chunk.js": "/sahithipyneni/Investobull.git/static/js/453.73eb131c.chunk.js",
+    "index.html": "/sahithipyneni/Investobull.git/index.html",
+    "main.086114bc.css.map": "/sahithipyneni/Investobull.git/static/css/main.086114bc.css.map",
+    "main.ebda716f.js.map": "/sahithipyneni/Investobull.git/static/js/main.ebda716f.js.map",
+    "453.73eb131c.chunk.js.map": "/sahithipyneni/Investobull.git/static/js/453.73eb131c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086114bc.css",
+    "static/js/main.ebda716f.js"
+  ]
+}
